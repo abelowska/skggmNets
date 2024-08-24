@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 set -e
 
-python3.8 -m venv --copies venv
+python3.10 -m venv --copies venv
 source venv/bin/activate
 pip3 install wheel
 pip3 install -r requirements.txt

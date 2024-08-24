@@ -161,7 +161,9 @@ cython_debug/
 
 
 
-data
 
+# data dirs
+data
+new_data
 .ipynb_checkpoints
 .pre-commit-config.yaml
